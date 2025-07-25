@@ -1,12 +1,17 @@
-📘 Cognizant Digital Nurture 4.0 - Java FSE Hands-on Exercises
+# Cognizant Digital Nurture Program 4.0 – Java FSE  
+## Deep Skilling Phase – Hands-on Assignments
+
+Welcome to my repository for the **Deep Skilling Phase** of the **Cognizant Digital Nurture Program 4.0** – Java Full Stack Engineering (FSE) track.
+
+This repository showcases the weekly hands-on assignments I completed as part of the program. These practical exercises significantly enhanced my proficiency in Java, backend development, unit testing, RESTful APIs, React, and more — preparing me to confidently contribute to enterprise-grade applications.
+
 ---
-Welcome to the Java Full Stack Engineer (FSE) hands-on practice repository for Cognizant Digital Nurture 4.0 (DN4). This repository contains modular, week-wise implementations of technologies related to Java FSE.
-----
-## 👨‍🎓 Author
 
-**Ankur Bose**  
-🎓 *Stream:* Computer Science and Engineering (CSE)  
-🆔 *Superset ID:* `6411148`  
-📚 *Batch:* Digital Nurture 4.0
+### Program Details
 
+- *Author*: **Ankur Bose** 
+- *Superset ID* : **6411148**  
+- *College*: **St. Thomas' College of Engineering and Technology**  
+- *Program*: **Cognizant Digital Nurture Program 4.0**
+- *Track*: **Java Full Stack Engineering (FSE)**
 ---
